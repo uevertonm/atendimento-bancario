@@ -24,8 +24,8 @@ Este é um projeto simples de terminal, desenvolvido em linguagem C, que simula 
 
 ## Pré visualização:
 
-<img width="700" height="558" alt="image" src="https://github.com/user-attachments/assets/2ff121b6-ecac-4ca8-ad8c-e0f262a9c9c7" />
-<img width="700" height="849" alt="image" src="https://github.com/user-attachments/assets/f5c0fa0a-7c65-41b3-8d51-4090ba88dafb" />
+<img width="600" height="558" alt="image" src="https://github.com/user-attachments/assets/2ff121b6-ecac-4ca8-ad8c-e0f262a9c9c7" />
+<img width="600" height="849" alt="image" src="https://github.com/user-attachments/assets/f5c0fa0a-7c65-41b3-8d51-4090ba88dafb" />
 
 ## Licença:
 
